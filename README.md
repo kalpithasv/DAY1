@@ -7,4 +7,5 @@ learnt JAVA already started just continued today
 -Switch Statements
 -Arrays
 -Multidimensional Arrays, Nested For Loops
+-iterating over an array inside loop
 their synatxes and few exercise on them 
